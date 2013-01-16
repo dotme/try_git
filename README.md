@@ -1,3 +1,5 @@
 try_git
 =======
-First steps in the GIT
+### My First Steps in the GIT
+*some italic text*
+**some bold text**
