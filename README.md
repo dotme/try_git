@@ -5,3 +5,5 @@ try_git
 
 As Terminator said:
 > I'll be back!
+
+Some [link](http://example.com "Title to link")
